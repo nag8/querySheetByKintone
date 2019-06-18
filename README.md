@@ -1,0 +1,2 @@
+# querySheetByKintone
+kintone→spreadsheet
